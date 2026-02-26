@@ -1,6 +1,8 @@
 # 💫 About Me:
-Highly motivated Data Scientist with a passion for data science and AI, with expertise in Python. Developing projects to have fun and learn new developments.
+Data enthusiast with 3+ years of experience building data-driven solutions across enterprise environments. I specialize in Power BI dashboarding, Python-based modeling, forecasting systems, and scalable analytics workflows handling millions of rows in production. With a strong analytical mindset, I approach problems from an optimization and decision-science perspective, focusing not just on models, but on measurable business impact. My work has contributed to 40% forecast error reduction and 30% reporting efficiency gains, translating analytics into operational value. Beyond dashboards and models, I enjoy designing automated pipelines, improving data quality frameworks, and experimenting with ML, and time-series forecasting.
 
+I believe good data tells a story. Great data drives decisions.
+And the best models? They survive production. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dineshkrishnang/) 
